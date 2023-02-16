@@ -1,7 +1,6 @@
 # Weismann
 
 <h1 align="center">Greetings! I'm Weismann</h1>
-<p> <img src="https://komarev.com/ghpvc/?username=WeismannS&label=Profile%20views&color=0e75b6&style=flat" alt="WeismannS" /> </p>
 <p> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=WeismannS&count_private=true&show_icons=true&show_icons=true&theme=dracula" /> </p>
 <p> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=WeismannS&theme=dracula" /> </p>
 <p> <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeismannS&layout=compact&langs_count=10&show_icons=true&theme=dracula" /> </p>
